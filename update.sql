@@ -1,6 +1,6 @@
 /**
  * @package    JShopping - States of Russian Federation
- * @version    1.0.0
+ * @version    1.1.0
  * @author     Artem Vasilev - webmasterskaya.xyz
  * @copyright  Copyright (c) 2020 Webmasterskaya. All rights reserved.
  * @license    GNU/GPL license: https://www.gnu.org/copyleft/gpl.html
