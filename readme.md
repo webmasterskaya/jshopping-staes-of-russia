@@ -1,9 +1,9 @@
 # Справочник регионов России для JoomShopping
-Справочник информации о регионах России оставлен на основе данных, предоставленных [ФИАС](https://fias.nalog.ru/).
+Справочник информации о регионах России составлен на основе данных, предоставленных [ФИАС](https://fias.nalog.ru/).
 Все названия получены из сервиса подсказок [DaData](https://dadata.ru/).
 
 ## Применение
-Список регионов дополняет справочние регионов [Joomshopping Addons: Addon States](https://www.webdesigner-profi.de/joomla-webdesign/shop/addons/addon-states.html)
+Список регионов дополняет справочник регионов [Joomshopping Addons: Addon States](https://www.webdesigner-profi.de/joomla-webdesign/shop/addons/addon-states.html)
 
 ## Порядок установки
 1. Скачать актуальную версию аддона, [с сайта разработчиков](https://www.webdesigner-profi.de/joomla-webdesign/shop/addons/addon-states.html);
@@ -16,4 +16,4 @@
 8. После получения сообщения, об успешной установке, перейдите в панель управления вашего сайта -> Компоненты -> JoomShopping -> Опции -> Регион и проверьте, что там появился список регионов РФ
 
 ## Спасибо
-Сбор средств, на стопку чаю, для повышения энтузиазма, проводится [ТУТ](https://yasobe.ru/na/whiskey_for_artem)
+Сбор средств на стопку чаю, для повышения энтузиазма, проводится [ТУТ](https://pay.cloudtips.ru/p/cf2e5bad)
